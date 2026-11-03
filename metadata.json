@@ -1,0 +1,6 @@
+{
+  "name": "Siavash Music Creator",
+  "description": "Your Voice. Your Music. Your Studio. اکوسیستم آفرینش آفرینا توانا سیتی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
